@@ -16,6 +16,8 @@ properties:
     type: string
     description: Longer textual description of the port
     example: Input YAML to be converted
+  # added by zhenglie
+  # The type's block can be deleted?
   type:
     name: type
     type: string
